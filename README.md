@@ -2,8 +2,7 @@
 
 ![a badge shcasing that I am a Noob](https://img.shields.io/badge/Level-NOOB-%23ebd234)
 
-
-First of all, i didn't even know it was possible to make a personal README, it feels like I'm on sale and this is the sign showing how good I am as a product, but you know, it takes what it takes!:joy:
+# Who am I?
 
 Development has always fascinated me, but I did never really approcahed it until september 2021 when I decided to dedicate myself to this world.
 I've then signed up at a Web Development Bootcamp, and after it, I did a Java course to learn the basics of the language, and then I landed my first job as a frontend web developer in April 2022! :tada::tada::tada:
