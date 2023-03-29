@@ -25,9 +25,8 @@ My work projects are stored in a Gitlab company account, that's why my Github it
 I try in my spare time to work on some side projects to sharpen the blade of my abilities and making my toolbox heavier. :hammer_and_wrench:
 
 **_PS: This is going to be the best "how to start things and don't finish them" guide in the universe :ok_hand:_**
-- [MineSweeper:](https://github.com/ieeah/Campo-Minato) (Yes, another MineSweeper clone) I started developing this game during my first Bootcamp, I decided doing it in vanillaJS, the game is working, I think it's pretty performant, BUT I'm struggling a lot with adding the "expansion feature" (when you click on a tile with zero bombs in the immediate vicinity it should expand all the close tiles, and recursively doing it for every close "empty tile").
-- [Snickerz:](https://github.com/ieeah/snickerz) It's a fake sneakers e-commerce, I basically did only the header but once finished, is gonna be a nice project! :laughing: 
-- Memory game: It's still an idea and I haven't started coding it yet, but I've written the roadmap to make it reality, now I just need some more spare time! :disappointed:
+- [MineSweeper:](https://github.com/ieeah/Campo-Minato) (Yes, another MineSweeper clone) I started developing this game during my first Bootcamp, I decided doing it in vanillaJS, the game is working and honestly I think it is very aesthetically pleasing but it would need some performance improvements.
+[Check it out](https://minesweeper-q3rj.onrender.com/)
 - [Starbucks Rewards clone:](https://github.com/ieeah/starbucks-rewards-clone) I don't remember the website where I've got this challenge from, (sorry :pray:) but I did this [Starbucks Rewards](https://www.starbucks.com/rewards) page using HTML - SCSS - VanillaJS.
 `Edit: I noticed a little bug in the rewards carousel visualization, I'll fix that sooner or later`
 - [Carrefour:](https://github.com/ieeah/carrefour-project) We looked at the ["Carrefour - Shop Online"](https://www.carrefour.it/spesa-online/) page to make a kind-of-a-clone for this group project.
